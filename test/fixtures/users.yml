@@ -3,13 +3,17 @@
 one:
   firstName: MyString
   lastName: MyString
+  email: MyString
+  phone: MyString
   farmName: MyString
-  address1: MyString
-  address2: MyString
+  farmAddress1: MyString
+  farmAddress2: MyString
 
 two:
   firstName: MyString
   lastName: MyString
+  email: MyString
+  phone: MyString
   farmName: MyString
-  address1: MyString
-  address2: MyString
+  farmAddress1: MyString
+  farmAddress2: MyString
